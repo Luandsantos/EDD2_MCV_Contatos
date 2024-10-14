@@ -1,0 +1,10 @@
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\bin\Debug\Proj Contato.exe.config
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\bin\Debug\Proj Contato.exe
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\bin\Debug\Proj Contato.pdb
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj Contato.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj_Contato.Form1.resources
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj_Contato.Properties.Resources.resources
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj Contato.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj Contato.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj Contato.exe
+C:\Users\Pichau\Desktop\EDD2\Proj Contato\Proj Contato\obj\Debug\Proj Contato.pdb
