@@ -1,0 +1,7 @@
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\obj\Debug\Projeto Contatos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\obj\Debug\Projeto Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\bin\Debug\Projeto Contatos.exe.config
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\bin\Debug\Projeto Contatos.exe
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\bin\Debug\Projeto Contatos.pdb
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\obj\Debug\Projeto Contatos.exe
+C:\Users\Pichau\Desktop\EDD2\Projeto Contatos\Projeto Contatos\obj\Debug\Projeto Contatos.pdb
